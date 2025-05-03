@@ -1,56 +1,164 @@
 [
   {
     "champion": "Aatrox",
-    "ability": "Orb of Deception",
+    "ability": "The Darkin Blade",
     "key": "Q",
-    "level": 5,
-    "cooldown": 7,
-    "options": [7, 8, 9],
-    "image": "ahri_q.png"
-  },
-  {
-    "champion": "Zed",
-    "ability": "Razor Shuriken",
-    "key": "Q",
-    "level": 3,
-    "cooldown": 6,
-    "options": [5, 6, 7],
-    "image": "zed_q.png"
+    "level": 1,
+    "cooldown": 14,
+    "options": [12, 14, 16],
+    "image": "aatrox_q.png"
   },
   {
     "champion": "Aatrox",
-    "ability": "Orb of Deception",
+    "ability": "The Darkin Blade",
     "key": "Q",
-    "level": 5,
-    "cooldown": 7,
-    "options": [7, 8, 9],
-    "image": "ahri_q.png"
-  },
-  {
-    "champion": "Zed",
-    "ability": "Razor Shuriken",
-    "key": "Q",
-    "level": 3,
-    "cooldown": 6,
-    "options": [5, 6, 7],
-    "image": "zed_q.png"
+    "level": 2,
+    "cooldown": 12,
+    "options": [10, 12, 14],
+    "image": "aatrox_q.png"
   },
   {
     "champion": "Aatrox",
-    "ability": "Orb of Deception",
-    "key": "Q",
-    "level": 5,
-    "cooldown": 7,
-    "options": [7, 8, 9],
-    "image": "ahri_q.png"
-  },
-  {
-    "champion": "Zed",
-    "ability": "Razor Shuriken",
+    "ability": "The Darkin Blade",
     "key": "Q",
     "level": 3,
+    "cooldown": 10,
+    "options": [8, 10, 12],
+    "image": "aatrox_q.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "The Darkin Blade",
+    "key": "Q",
+    "level": 4,
+    "cooldown": 8,
+    "options": [7, 8, 10],
+    "image": "aatrox_q.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "The Darkin Blade",
+    "key": "Q",
+    "level": 5,
     "cooldown": 6,
     "options": [5, 6, 7],
-    "image": "zed_q.png"
+    "image": "aatrox_q.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "Infernal Chains",
+    "key": "W",
+    "level": 1,
+    "cooldown": 20,
+    "options": [18, 20, 22],
+    "image": "aatrox_w.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "Infernal Chains",
+    "key": "W",
+    "level": 2,
+    "cooldown": 18,
+    "options": [16, 18, 20],
+    "image": "aatrox_w.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "Infernal Chains",
+    "key": "W",
+    "level": 3,
+    "cooldown": 16,
+    "options": [14, 16, 18],
+    "image": "aatrox_w.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "Infernal Chains",
+    "key": "W",
+    "level": 4,
+    "cooldown": 14,
+    "options": [12, 14, 15],
+    "image": "aatrox_w.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "Infernal Chains",
+    "key": "W",
+    "level": 5,
+    "cooldown": 12,
+    "options": [10, 12, 14],
+    "image": "aatrox_w.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "Umbral Dash",
+    "key": "E",
+    "level": 1,
+    "cooldown": 9,
+    "options": [8, 9, 10],
+    "image": "aatrox_e.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "Umbral Dash",
+    "key": "E",
+    "level": 2,
+    "cooldown": 8,
+    "options": [7, 8, 9],
+    "image": "aatrox_e.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "Umbral Dash",
+    "key": "E",
+    "level": 3,
+    "cooldown": 7,
+    "options": [6, 7, 8],
+    "image": "aatrox_e.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "Umbral Dash",
+    "key": "E",
+    "level": 4,
+    "cooldown": 6,
+    "options": [5, 6, 7],
+    "image": "aatrox_e.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "Umbral Dash",
+    "key": "E",
+    "level": 5,
+    "cooldown": 5,
+    "options": [4, 5, 6],
+    "image": "aatrox_e.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "World Ender",
+    "key": "R",
+    "level": 1,
+    "cooldown": 120,
+    "options": [100, 110, 120],
+    "image": "aatrox_r.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "World Ender",
+    "key": "R",
+    "level": 2,
+    "cooldown": 100,
+    "options": [90, 100, 110],
+    "image": "aatrox_r.png"
+  },
+  {
+    "champion": "Aatrox",
+    "ability": "World Ender",
+    "key": "R",
+    "level": 3,
+    "cooldown": 80,
+    "options": [70, 80, 90],
+    "image": "aatrox_r.png"
   }
 ]
