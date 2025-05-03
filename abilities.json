@@ -160,5 +160,167 @@
     "cooldown": 80,
     "options": [70, 80, 90],
     "image": "aatrox_r.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Orb of Deception",
+    "key": "Q",
+    "level": 1,
+    "cooldown": 7,
+    "options": [6, 7, 8],
+    "image": "ahri_q.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Orb of Deception",
+    "key": "Q",
+    "level": 2,
+    "cooldown": 7,
+    "options": [6, 7, 9],
+    "image": "ahri_q.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Orb of Deception",
+    "key": "Q",
+    "level": 3,
+    "cooldown": 7,
+    "options": [5, 7, 8],
+    "image": "ahri_q.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Orb of Deception",
+    "key": "Q",
+    "level": 4,
+    "cooldown": 7,
+    "options": [6, 7, 10],
+    "image": "ahri_q.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Orb of Deception",
+    "key": "Q",
+    "level": 5,
+    "cooldown": 7,
+    "options": [7, 8, 9],
+    "image": "ahri_q.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Fox-Fire",
+    "key": "W",
+    "level": 1,
+    "cooldown": 10,
+    "options": [9, 10, 11],
+    "image": "ahri_w.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Fox-Fire",
+    "key": "W",
+    "level": 2,
+    "cooldown": 9,
+    "options": [8, 9, 10],
+    "image": "ahri_w.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Fox-Fire",
+    "key": "W",
+    "level": 3,
+    "cooldown": 8,
+    "options": [7, 8, 9],
+    "image": "ahri_w.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Fox-Fire",
+    "key": "W",
+    "level": 4,
+    "cooldown": 7,
+    "options": [6, 7, 8],
+    "image": "ahri_w.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Fox-Fire",
+    "key": "W",
+    "level": 5,
+    "cooldown": 6,
+    "options": [5, 6, 7],
+    "image": "ahri_w.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Charm",
+    "key": "E",
+    "level": 1,
+    "cooldown": 12,
+    "options": [10, 12, 14],
+    "image": "ahri_e.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Charm",
+    "key": "E",
+    "level": 2,
+    "cooldown": 12,
+    "options": [11, 12, 13],
+    "image": "ahri_e.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Charm",
+    "key": "E",
+    "level": 3,
+    "cooldown": 12,
+    "options": [10, 12, 15],
+    "image": "ahri_e.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Charm",
+    "key": "E",
+    "level": 4,
+    "cooldown": 12,
+    "options": [9, 12, 13],
+    "image": "ahri_e.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Charm",
+    "key": "E",
+    "level": 5,
+    "cooldown": 12,
+    "options": [12, 13, 14],
+    "image": "ahri_e.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Spirit Rush",
+    "key": "R",
+    "level": 1,
+    "cooldown": 130,
+    "options": [120, 130, 140],
+    "image": "ahri_r.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Spirit Rush",
+    "key": "R",
+    "level": 2,
+    "cooldown": 115,
+    "options": [110, 115, 120],
+    "image": "ahri_r.png"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Spirit Rush",
+    "key": "R",
+    "level": 3,
+    "cooldown": 100,
+    "options": [90, 100, 110],
+    "image": "ahri_r.png"
   }
 ]
